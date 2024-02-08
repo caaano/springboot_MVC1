@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+rootProject.name = 'item-service'
+=======
 rootProject.name = 'springmvc'
+>>>>>>> 878e8152e696ce458685942ebd0f627e4a002d99
